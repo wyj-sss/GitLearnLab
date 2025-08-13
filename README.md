@@ -1,1 +1,1 @@
-二次写入
+GitLeanLab 仓库介绍
